@@ -14,7 +14,7 @@ It includes:
 I chose a dark (black-based) layout simply because I like it. It brings contrast, focuses the attention on the red highlights, and gives a modern, clean feel.  
 The style is minimal, but sharp, built to emphasize clarity and trust.
 
-## The Stack
+## Technologies Used
 - Wordpress
 - Elementor Plugin
 - Hello Elementor Theme
